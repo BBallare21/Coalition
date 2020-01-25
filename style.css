@@ -1,0 +1,242 @@
+@import url('https://fonts.googleapis.com/css?family=Barlow+Condensed|Oswald&display=swap');
+
+.logo1 {
+    height: 50px;
+    width: 50px;
+}
+
+.logo2 {
+    height: 40px;
+    width: 40px;
+}
+
+.logo3 {
+    height: 40px;
+    width: 110px;
+}
+
+.top {
+    background-image: url('./Images/photo-1459666644539-a9755287d6b0.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+}
+
+.link1 {
+    color: white !important;
+    border-bottom: 1px solid white !important;
+    margin-right: 60px;
+    font-style: italic;
+    font-size: 14px;
+}
+
+.link2 {
+    color: white !important;
+    border-bottom: 1px solid white !important;
+    font-style: italic;
+    font-size: 14px;
+}
+
+#title {
+    font-family: 'Oswald', sans-serif;
+    font-size: 7vw;
+    font-weight: bold;
+    margin-bottom: -65px;
+    margin-top: 120px;
+    margin-left: 400px;
+    letter-spacing: 2px;
+    color: rgb(70, 70, 70);
+}
+
+#titleSub {
+    font-family: 'Oswald', sans-serif;
+    font-size: 7vw;
+    font-weight: bold;
+    margin-left: 400px;
+    letter-spacing: 5px;
+    color: rgb(44, 44, 95);
+}
+
+.midNav {
+    background-color: white !important;
+    height: 80px;
+}
+
+.link3 {
+    color: rgb(44, 44, 95) !important;
+    border-bottom: 1px solid rgb(44, 44, 95) !important;
+    margin-right: 60px;
+    font-style: italic;
+    font-size: 14px;
+}
+
+.link4 {
+    color: rgb(44, 44, 95) !important;
+    border-bottom: 1px solid rgb(44, 44, 95) !important;
+    font-style: italic;
+    font-size: 14px;
+}
+
+.middle {
+    background-image: url('./Images/peak.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 1300px;
+}
+
+.num1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 7vw;
+    font-weight: bold;
+    color: rgb(39, 39, 88);
+    opacity: 45%;
+}
+
+.history1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 2vw;
+    font-weight: bolder;
+    color: rgb(39, 39, 88);
+    opacity: 80%;
+    margin-left: 125px;
+    margin-top: -130px;
+}
+
+.ipsum1 {
+    margin-left: 65px;
+    margin-right: 65px;
+    padding-top: 10px;
+}
+
+.border {
+    background-color: rgb(50, 53, 78);
+    opacity: 80%;
+    display: flex;
+    margin-top: 685px;
+    border: none;
+}
+
+.carousel {
+    margin: auto;
+    height: 50%;
+    width: 50%;
+    border: none;
+}
+
+.num2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 7vw;
+    font-weight: bold;
+    color: rgb(39, 39, 88);
+    opacity: 45%;
+    margin-left: 30px;
+}
+
+.climb1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 2vw;
+    font-weight: bolder;
+    color: rgb(39, 39, 88);
+    opacity: 80%;
+    margin-left: 165px;
+    margin-top: -130px;
+}
+
+.ipsum2 {
+    margin-left: 295px;
+    margin-right: 65px;
+    margin-top: -80px;
+}
+
+.schedule {
+    background-image: url('./Images/photo-1417021423914-070979c8eb34.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+}
+
+.link5 {
+    border: 1px solid rgb(44, 44, 95);
+    background-color: rgb(44, 44, 95);
+    padding: 10px;
+    margin-top: 60px;
+    color: gray;
+    text-emphasis: none;
+}
+
+.m1 {
+    color: rgb(189, 189, 189);
+    font-weight: bolder;
+    font-family: 'Oswald', sans-serif;
+    text-decoration: none;
+    font-size: 1vw;
+    margin-right: 30px;
+    margin-left: 10px;
+    letter-spacing: 1px;
+}
+
+.m2 {
+    color: rgb(189, 189, 189);
+    font-weight: bolder;
+    font-family: 'Oswald', sans-serif;
+    text-decoration: none;
+    font-size: 1vw;
+    letter-spacing: 1px;
+}
+
+.m1:hover {
+    color: rgb(44, 44, 95);
+    background-color: rgb(189, 189, 189);
+    padding: 10px;
+    opacity: 75%;
+}
+
+.m2:hover {
+    color: rgb(44, 44, 95);
+    background-color: rgb(189, 189, 189);
+    padding: 10px;
+    opacity: 75%;
+}
+
+.listTitle {
+    font-family: 'Oswald', sans-serif;
+    font-size: 2vw;
+    font-weight: bold;
+    color: rgb(44, 44, 95);
+    margin-left: 40px;
+}
+
+.list1 {
+    border: 1px solid white;
+    background-color: white;
+    opacity: 90%;
+    width: 375px;
+    height: 275px;
+    margin-top: 100px;
+    margin-left: 60px;
+    font-family: 'Oswald', sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+.list2 {
+    float: right;
+    margin-right: 40px;
+}
+
+.footer {
+    background-color: rgb(44, 44, 95);
+}
+
+.copyright {
+    color: rgb(121, 127, 156);
+    font-family: 'Oswald', sans-serif;
+    position: absolute;
+    right: 0px;
+    margin-right: 20px;
+}
