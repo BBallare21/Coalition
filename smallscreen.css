@@ -1,7 +1,7 @@
  /*small devices (phones, 414px and down) */
  @media only screen and (max-width: 414px) {
     .top {
-        background-image: url('./Images/photo-1459666644539-a9755287d6b0.png');
+        background-image: url('./Images/backgroundTop.jpg');
         background-repeat: no-repeat;
         background-size: cover;
         width: 100%;
@@ -63,6 +63,10 @@
         height: 55px;
         margin-top: -8px;
     }
+
+    .nav2 {
+        visibility: hidden;
+    }
     
     .link3 {
         color: rgb(44, 44, 95) !important;
@@ -100,7 +104,6 @@
         font-size: 2vw;
         font-weight: bolder;
         color: rgb(39, 39, 88);
-        opacity: 80%;
         margin-left: 20px;
         margin-top: -36px;
     }
@@ -259,6 +262,10 @@
         margin-top: 80px;
         border: none;
     }
+
+    .nav2 {
+        visibility: hidden;
+    }
     
     .carousel {
         margin: auto;
@@ -270,7 +277,7 @@
 
 @media only screen and (max-width: 320px) {
     .top {
-        background-image: url('./Images/photo-1459666644539-a9755287d6b0.png');
+        background-image: url('./Images/backgroundTop.jpg');
         background-repeat: no-repeat;
         background-size: cover;
         width: 100%;
@@ -331,6 +338,10 @@
         background-color: white !important;
         height: 55px;
         margin-top: -8px;
+    }
+
+    .nav2 {
+        visibility: hidden;
     }
     
     .link3 {
